@@ -1,0 +1,6 @@
+C:\Users\Mary Winkelman\Documents\Visual Studio 2015\Projects\week11\BCResourceSystem3\BCResourceSystem3\bin\Debug\BCResourceSystem3.exe.config
+C:\Users\Mary Winkelman\Documents\Visual Studio 2015\Projects\week11\BCResourceSystem3\BCResourceSystem3\bin\Debug\BCResourceSystem3.exe
+C:\Users\Mary Winkelman\Documents\Visual Studio 2015\Projects\week11\BCResourceSystem3\BCResourceSystem3\bin\Debug\BCResourceSystem3.pdb
+C:\Users\Mary Winkelman\Documents\Visual Studio 2015\Projects\week11\BCResourceSystem3\BCResourceSystem3\obj\Debug\BCResourceSystem3.csprojResolveAssemblyReference.cache
+C:\Users\Mary Winkelman\Documents\Visual Studio 2015\Projects\week11\BCResourceSystem3\BCResourceSystem3\obj\Debug\BCResourceSystem3.exe
+C:\Users\Mary Winkelman\Documents\Visual Studio 2015\Projects\week11\BCResourceSystem3\BCResourceSystem3\obj\Debug\BCResourceSystem3.pdb
